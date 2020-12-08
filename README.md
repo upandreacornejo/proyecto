@@ -1,3 +1,4 @@
+
 <html style="
 
     background-color: rgb(18 230 210 / 36%);
@@ -93,5 +94,3 @@
     font-family: fantasy ;
     color: black;
     ">Siguenos en instagram @greensale.pa  </h6>
-
-</body></html>
